@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Clean up F-Curve Modifier",
-    "author": "Your Name",
+    "author": "moteki",
     "version": (1, 1),
     "blender": (4, 2, 0),
     "location": "Graph Editor > Channel",
